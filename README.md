@@ -7,10 +7,8 @@
 
 Установка: $ npm link
 
-Brain-even: https://asciinema.org/a/dXGdvR8LPeN1mm16e6MwyHAUX  
+Brain-even: <a href="https://asciinema.org/a/8grvJ8EvNl1Sdf6YmvaeY9Rlg" target="_blank"><img src="https://asciinema.org/a/8grvJ8EvNl1Sdf6YmvaeY9Rlg.svg" /></a>  
 Brain-calc: <a href="https://asciinema.org/a/8TpgdoaidNIpXzFXDUjrouvAF" target="_blank"><img src="https://asciinema.org/a/8TpgdoaidNIpXzFXDUjrouvAF.svg" /></a>  
-Brain-gcd: https://asciinema.org/a/rLKYh1B0WoGedfjWN2c73Njjq  
-Brain-progression: https://asciinema.org/a/QhSI6XZRcVoiz4CNfq9NhYxCL  
-Brain-prime: https://asciinema.org/a/rX9NU7qfzCO5aXU1atuyBcEHD
-
-<a href="https://asciinema.org/a/8TpgdoaidNIpXzFXDUjrouvAF" target="_blank"><img src="https://asciinema.org/a/8TpgdoaidNIpXzFXDUjrouvAF.svg" /></a>
+Brain-gcd: <a href="https://asciinema.org/a/rLKYh1B0WoGedfjWN2c73Njjq" target="_blank"><img src="https://asciinema.org/a/rLKYh1B0WoGedfjWN2c73Njjq.svg" /></a>  
+Brain-progression: <a href="https://asciinema.org/a/QhSI6XZRcVoiz4CNfq9NhYxCL" target="_blank"><img src="https://asciinema.org/a/QhSI6XZRcVoiz4CNfq9NhYxCL.svg" /></a>  
+Brain-prime: <a href="https://asciinema.org/a/rX9NU7qfzCO5aXU1atuyBcEHD" target="_blank"><img src="https://asciinema.org/a/rX9NU7qfzCO5aXU1atuyBcEHD.svg" /></a>
