@@ -28,6 +28,8 @@ const getQuestionAndAnswer = () => {
   return [question, correctAnswer];
 };
 
-export const progressionGame = () => {
+const progressionGame = () => {
   game(description, getQuestionAndAnswer);
 };
+
+export default progressionGame;

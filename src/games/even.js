@@ -14,3 +14,5 @@ const getQuestionAndAnswer = () => {
 export const even = () => {
   game(description, getQuestionAndAnswer);
 };
+
+export default even;

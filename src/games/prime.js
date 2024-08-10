@@ -18,6 +18,8 @@ const getQuestionAndAnswer = () => {
   return [question, correctAnswer];
 };
 
-export const primeGame = () => {
+const primeGame = () => {
   game(description, getQuestionAndAnswer);
 };
+
+export default primeGame;

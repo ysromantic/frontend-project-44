@@ -20,3 +20,5 @@ const getQuestionAndAnswer = () => {
 export const gcd = () => {
   game(description, getQuestionAndAnswer);
 };
+
+export default gcd;
