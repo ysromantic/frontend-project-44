@@ -1,4 +1,5 @@
-import { game, getRandom } from '../index.js';
+import startGame from '../index.js';
+import getRandom from '../utils.js';
 
 const description = 'What number is missing in the progression?';
 
@@ -10,7 +11,7 @@ const getProgression = (startNum, step, progressionLength) => {
   return result;
 };
 
-const getQuestionAndAnswer = () => {
+const getRound = () => {
   const startNum = getRandom(1, 20);
   const step = getRandom(1, 5);
   const progressionLength = getRandom(5, 10);
@@ -28,8 +29,8 @@ const getQuestionAndAnswer = () => {
   return [question, correctAnswer];
 };
 
-const progressionGame = () => {
-  game(description, getQuestionAndAnswer);
+const startProgression = () => {
+  startGame(description, getRound);
 };
 
-export default progressionGame;
+export default startProgression;
