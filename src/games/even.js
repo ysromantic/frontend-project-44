@@ -2,7 +2,6 @@ import startGame from '../index.js';
 import getRandom from '../utils.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
-
 const isEven = (num) => num % 2 === 0;
 
 const getRound = () => {

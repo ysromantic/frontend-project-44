@@ -2,7 +2,6 @@ import startGame from '../index.js';
 import getRandom from '../utils.js';
 
 const description = 'What is the result of the expression?';
-
 const operations = ['+', '-', '*'];
 
 const calculate = (num1, num2, operator) => {
